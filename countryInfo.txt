@@ -1,0 +1,7 @@
+ United States					 Country Name 				 Norway 
+ USA						 Alpha Code 				 NOR 
+ Washington, D.C.				 Capital 				 Oslo 
+ Americas					 Continent 				 Europe 
+ 321645000					 Population 				 5176998 
+ USD						 Currency 				 NOK 
+ 1						 Currency Rate 				 9.25005
